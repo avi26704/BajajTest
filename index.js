@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 const fullName = "aditya_avi";
 const dob = "26012004";       
-const email = "avi26704@gmail.com";
+const email = "aditya.avi2022@vitstudent.ac.in";
 const rollNumber = "22BCI0096";
 
 app.set("json spaces", 2);
